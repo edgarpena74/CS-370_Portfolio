@@ -1,19 +1,21 @@
 # CS 370 – Pirate Intelligent Agent  
+
 **Edgar Pena**  
+
 Southern New Hampshire University  
 
 ---
 
-# Overview
+## Overview
 
-## Technical Implementation
+### Technical Implementation
 
 - Language: Python  
 - Libraries: TensorFlow, Keras, NumPy  
 - Algorithm: Deep Q-Learning (DQN)  
 - Environment: 8x8 maze  
 
-## Training Configuration
+### Training Configuration
 
 - Epochs: Up to 1000  
 - Initial Epsilon: 0.9  
@@ -42,7 +44,7 @@ The primary component I implemented was the `qtrain()` function. In this section
 - Implemented win rate tracking and a completion check to verify consistent performance  
 
 ---
-# Reflection
+## Reflection
 
 ### What do computer scientists do and why does it matter?
 
